@@ -2,7 +2,7 @@
  * "Variables"
  */
  :root {
-	--accent-color: hsl(80 42% 54%);
+	--accent-color: #B2DF8A;
 	--secondary-color: hsl(20 15% 50%);
 	--tertiary-color: hsl(200 15% 50%);
 	--secondary-color-inverted: var(--tertiary-color);
@@ -24,7 +24,7 @@
 * { margin:0; }
 
 html {
-	background: #9BA2B0;
+	background: #F0F0F0;
 	font-size: 14px;
 	accent-color: var(--accent-color);
 }
